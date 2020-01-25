@@ -1,0 +1,21 @@
+body{
+	background :url("tokyo.jpg") no-repeat center center fixed;
+	background-size:cover;
+	width: 100%;
+	height: 100%;
+}
+.findout{
+	color: black;
+	font-family: monospace;
+	font-size: 70;
+	text-align: center;
+	display: block;
+
+	position:fixed;
+   left:0px;
+   bottom:0px;
+   height:150px;
+   width:100%;
+	}
+
+
